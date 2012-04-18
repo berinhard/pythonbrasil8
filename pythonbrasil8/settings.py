@@ -90,6 +90,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'pythonbrasil8.core',
+    'pythonbrasil8.registration',
     'mittun.events',
     'mittun.registration',
     'mittun.sponsors',
